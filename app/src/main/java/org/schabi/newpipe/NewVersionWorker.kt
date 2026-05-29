@@ -112,7 +112,7 @@ class NewVersionWorker(
     companion object {
         private val DEBUG = MainActivity.DEBUG
         private val TAG = NewVersionWorker::class.java.simpleName
-        private const val NEWPIPE_API_URL = "https://github.com/tr-turkpipe/TurkPipe"
+        private const val NEWPIPE_API_URL = "https://github.com/mertbaba59/TurkPipe"
         private const val IS_MANUAL = "isManual"
 
         /**

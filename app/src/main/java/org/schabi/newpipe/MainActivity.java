@@ -1054,7 +1054,7 @@ public class MainActivity extends AppCompatActivity {
 
         // If we use setNegativeButton, dialog will close after pressing the button,
         // but we want it to close only when positive button is pressed
-        final var blogpostUrl = "https://github.com/tr-turkpipe/TurkPipe";
+        final var blogpostUrl = "https://github.com/mertbaba59/TurkPipe";
         dialog.getButton(AlertDialog.BUTTON_NEGATIVE)
                 .setOnClickListener(v -> ShareUtils.openUrlInBrowser(this, blogpostUrl));
     }
