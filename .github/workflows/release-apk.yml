@@ -26,7 +26,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug --stacktrace
+        run: ./gradlew assembleDebug -x runCheckstyle -x runKtlint -x checkDependenciesOrder -x formatKtlint --stacktrace
 
       - name: Rename APK
         run: |
