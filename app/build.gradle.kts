@@ -37,7 +37,6 @@ configure<ApplicationExtension> {
 
     defaultConfig {
         applicationId = "tr.turkpipe"
-        resValue("string", "app_name", "TürkPipe")
         minSdk {
             version = release(NEWPIPE_VERSION_SDK_MIN)
         }
@@ -67,17 +66,14 @@ configure<ApplicationExtension> {
             if (normalizedWorkingBranch.isEmpty() || workingBranch in defaultBranches) {
                 // default values when branch name could not be determined or is master or dev
                 applicationIdSuffix = ""
-                resValue("string", "app_name", "TürkPipe")
             } else {
                 applicationIdSuffix = ""
-                resValue("string", "app_name", "TürkPipe")
             }
         }
 
         release {
             System.getProperty("packageSuffix")?.let { suffix ->
                 applicationIdSuffix = suffix
-                resValue("string", "app_name", "TürkPipe $suffix")
             }
             isMinifyEnabled = true
             isShrinkResources = true
