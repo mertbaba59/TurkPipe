@@ -6,7 +6,11 @@
 <h4 align="center">Android için Reklamsız, Bağımsız ve Gelişmiş YouTube İstemcisi</h4>
 
 <p align="center">
-  <a href="https://github.com/tr-turkpipe/TurkPipe/releases"><img src="https://img.shields.io/github/release/tr-turkpipe/TurkPipe.svg?color=blue&style=flat-square" alt="GitHub Release"></a>
+  🌐 <b><a href="https://mrtdevm.github.io/TurkPipe/">Tanıtım ve İndirme Web Sitesi</a></b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MRTDEVM/TurkPipe/releases"><img src="https://img.shields.io/github/release/MRTDEVM/TurkPipe.svg?color=blue&style=flat-square" alt="GitHub Release"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://android.com"><img src="https://img.shields.io/badge/Platform-Android%206.0+-brightgreen.svg?style=flat-square" alt="Platform"></a>
 </p>
