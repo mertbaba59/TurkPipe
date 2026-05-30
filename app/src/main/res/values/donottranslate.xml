@@ -17,11 +17,11 @@
     <string name="md5">MD5</string>
     <string name="sha1">SHA-1</string>
     <string name="recaptcha">reCAPTCHA</string>
-    <string name="github_url">https://github.com/mertbaba59/TurkPipe</string>
-    <string name="donation_url">https://github.com/mertbaba59/TurkPipe</string>
-    <string name="website_url">https://mertbaba59.github.io/TurkPipe/</string>
-    <string name="privacy_policy_url">https://github.com/mertbaba59/TurkPipe/blob/main/PRIVACY.md</string>
-    <string name="faq_url">https://github.com/mertbaba59/TurkPipe/blob/main/FAQ.md</string>
+    <string name="github_url">https://github.com/MRTDEVM/TurkPipe</string>
+    <string name="donation_url">https://github.com/MRTDEVM/TurkPipe</string>
+    <string name="website_url">https://mrtdevm.github.io/TurkPipe/</string>
+    <string name="privacy_policy_url">https://github.com/MRTDEVM/TurkPipe/blob/main/PRIVACY.md</string>
+    <string name="faq_url">https://github.com/MRTDEVM/TurkPipe/blob/main/FAQ.md</string>
     <string name="service_kiosk_string">%1$s/%2$s</string>
     <string name="youtube">YouTube</string>
     <string name="preferred_open_action_share_menu_title">@string/app_name</string>

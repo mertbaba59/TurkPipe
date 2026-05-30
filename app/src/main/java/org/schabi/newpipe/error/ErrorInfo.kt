@@ -162,7 +162,7 @@ class ErrorInfo private constructor(
 
         const val SERVICE_NONE = "<unknown_service>"
 
-        const val YOUTUBE_IP_BAN_FAQ_URL = "https://github.com/mertbaba59/TurkPipe/blob/main/FAQ.md#ip-banned-youtube"
+        const val YOUTUBE_IP_BAN_FAQ_URL = "https://github.com/MRTDEVM/TurkPipe/blob/main/FAQ.md#ip-banned-youtube"
 
         private fun getServiceName(serviceId: Int?) = // not using getNameOfServiceById since we want to accept a nullable serviceId and we
             // want to default to SERVICE_NONE
